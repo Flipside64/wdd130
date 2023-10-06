@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head> == $0
+    <body>
+        <div class="fig-block">
+            <figure> == $0
+                <img alt="W04 - ICE" src="images/President-Russell-M-Nelson-1-2018.jpg" title="W04 ICE image wihtout hover"> == $0
+                <figcaption> W04 image with hover </figcaption>
+            </figure>
+        </main>
+    </div>
+    </body>
+</html> 
+
+
+    
